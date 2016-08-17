@@ -1,0 +1,100 @@
+X:\lee\Projects\New Clock Application\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.exe.config
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.exe.config
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.exe
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.pdb
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.xml
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\WHLClasses.dll
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\zxing.dll
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\LinnworksAPI.dll
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\MySql.Data.dll
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\Newtonsoft.Json.dll
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\WHLClasses.pdb
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\WHLClasses.xml
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\LinnworksAPI.pdb
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.vbprojResolveAssemblyReference.cache
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.Resources.resources
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.OversoldDetails.resources
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.vbproj.GenerateResource.Cache
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.exe
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.xml
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.pdb
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.OrderInfoWindow.resources
+X:\Development\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.MainForm.resources
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.exe.config
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.exe
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.xml
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.pdb
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.exe
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.pdb
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.xml
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\LinnworksAPI.dll
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\WHLClasses.dll
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\Newtonsoft.Json.dll
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\zxing.dll
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\MySql.Data.dll
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\LinnworksAPI.pdb
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\WHLClasses.pdb
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\WHLClasses.xml
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.vbprojResolveAssemblyReference.cache
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.MainForm.resources
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.Resources.resources
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.OrderInfoWindow.resources
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.OversoldDetails.resources
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.vbproj.GenerateResource.Cache
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.exe.manifest
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.application
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.exe.manifest
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.application
+Z:\.V5\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.UserInfoWindow.resources
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.exe.config
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.exe
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.xml
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.pdb
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.exe.manifest
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.application
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.exe
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.pdb
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.xml
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\LinnworksAPI.dll
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\WHLClasses.dll
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\Newtonsoft.Json.dll
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\zxing.dll
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\MySql.Data.dll
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\LinnworksAPI.pdb
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\WHLClasses.pdb
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\WHLClasses.xml
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.vbprojResolveAssemblyReference.cache
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.MainForm.resources
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.Resources.resources
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.OrderInfoWindow.resources
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.OversoldDetails.resources
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.UserInfoWindow.resources
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.vbproj.GenerateResource.Cache
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.exe.manifest
+Z:\.V5\Documents Backup\Doc Backup\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.application
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.exe.config
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.exe
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.xml
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.pdb
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.exe.manifest
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.application
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.exe
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.pdb
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\OversoldOrdersViewer.xml
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\LinnworksAPI.dll
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\WHLClasses.dll
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\zxing.dll
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\MySql.Data.dll
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\LinnworksAPI.pdb
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\WHLClasses.pdb
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\bin\Debug\WHLClasses.xml
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.vbprojResolveAssemblyReference.cache
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.MainForm.resources
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.Resources.resources
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.OrderInfoWindow.resources
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.OversoldDetails.resources
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.UserInfoWindow.resources
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.vbproj.GenerateResource.Cache
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.exe.manifest
+C:\Users\colin\Documents\Projects\OversoldOrdersViewer\OversoldOrdersViewer\obj\Debug\OversoldOrdersViewer.application
