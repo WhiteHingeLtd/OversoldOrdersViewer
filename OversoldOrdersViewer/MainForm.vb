@@ -1,4 +1,5 @@
-﻿Imports WHLClasses
+﻿Imports System.IO
+Imports WHLClasses
 Imports WHLClasses.Linnworks.Orders
 Imports WHLClasses.Orders
 
@@ -6,7 +7,7 @@ Public Class MainForm
 
     Public SkuColl As SkuCollection
     Dim Loader As New GenericDataController
-    Dim SKULoader As New WHLClasses.SkusDataController
+    
     Dim Orddef As WHLClasses.Orders.OrderDefinition = Nothing
 
     Private Sub LoadTheProgram() Handles MyBase.Load
@@ -55,7 +56,8 @@ Public Class MainForm
 
         If tryPast Then
             Try
-                Dim listOfFiles As List(Of String) = My.Computer.FileSystem.GetFiles("T:\AppData\Orders\Past\", FileIO.SearchOption.SearchAllSubDirectories, OrderID + ".ordex").ToList
+                Dim filesList = New DirectoryInfo("T:\Appdata\Orders\").EnumerateFiles($"{OrderId}.ordex", SearchOption.AllDirectories)
+                Dim listOfFiles As List(Of String) = filesList.Select(function(Info) Info.FullName).ToList()
                 If listOfFiles.Count > 0 Then
                     RequestedOrder = Loader.LoadOrdex(listOfFiles(0))
                     If Orddef Is Nothing Then
@@ -132,9 +134,14 @@ Public Class MainForm
             Else
                 For Each oversolditem As ArrayList In oversolds
                     'So we have items in the list. Now we set up OversoldDetails objects.
-                    Dim theNewOversoldItem As New OversoldDetails
-                    theNewOversoldItem.SetDetailsData(oversolditem(0), oversolditem(1), oversolditem(2), oversolditem(3), oversolditem(4), oversolditem(6), Me)
-                    OversoldList.Controls.Add(theNewOversoldItem)
+                    try
+                        Dim theNewOversoldItem As New OversoldDetails
+                        theNewOversoldItem.SetDetailsData(oversolditem(0), oversolditem(1), oversolditem(2), oversolditem(3), oversolditem(4), oversolditem(6), Me)
+                        OversoldList.Controls.Add(theNewOversoldItem)
+                    Catch ex As Exception
+
+                    End Try
+                    
                 Next
                 displayText += oversolds.Count.ToString
                 InfoText.Text = displayText

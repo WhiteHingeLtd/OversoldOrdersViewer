@@ -25,7 +25,7 @@
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>http://apps.ad.whitehinge.com/AppPublish/OOV/</InstallUrl>
-    <ApplicationRevision>8</ApplicationRevision>
+    <ApplicationRevision>11</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -64,16 +64,22 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>44E5C0BCD6C0D148DD4FFFBADF5C1A1FE233D4A5</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>BC21427865220AE1A01BDD8986B54E790480BF9A</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>OversoldOrdersViewer_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>SPC.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
   </PropertyGroup>
   <PropertyGroup>
     <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>SPC.pfx</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -175,15 +181,16 @@
     </None>
     <None Include="App.config" />
     <None Include="OversoldOrdersViewer_TemporaryKey.pfx" />
+    <None Include="SPC.pfx" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Z:\.V5\Documents\Projects\LinnworksDOTNETApi\LinnworksAPI.csproj">
-      <Project>{121d410c-db32-4245-996f-3b1134b0f181}</Project>
-      <Name>LinnworksAPI</Name>
-    </ProjectReference>
-    <ProjectReference Include="\\WIN-NOHLS1H9ER8\Profiles\Colin\.V5\Documents\Projects\Framework\Framework\Framework.vbproj">
+    <ProjectReference Include="..\..\Framework\Framework\Framework.vbproj">
       <Project>{8a2b93b9-4651-40f3-bbf9-d8fd0474a719}</Project>
       <Name>Framework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\LinnworksNetSDK\Linnworks\src\net\LinnworksAPI\LinnworksAPI.csproj">
+      <Project>{121d410c-db32-4245-996f-3b1134b0f181}</Project>
+      <Name>LinnworksAPI</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
